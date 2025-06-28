@@ -77,3 +77,18 @@ sudo reboot
 
 # Check Driver
 nvidia-smi
+```
+
+---
+
+## 🎥 Video Inspiration
+
+I got inspiration for this setup from this YouTube video:
+
+[![Watch on YouTube](https://img.youtube.com/vi/o5deOXLDpZw/0.jpg)](https://www.youtube.com/watch?v=o5deOXLDpZw)
+
+> 🔗 [Watch: How to Install NVIDIA Driver on Ubuntu for RTX 5090](https://www.youtube.com/watch?v=o5deOXLDpZw)
+
+Big thanks to the original creator for walking through the manual install steps!
+
+---
